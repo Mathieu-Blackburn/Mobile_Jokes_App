@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP2_Mathieu_Blackburn_Rogers</string>
+    <string name="new_password">New Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="enter_your_old_password_then_the_new">Enter your old password then the new</string>
+    <string name="change">Change</string>
+    <string name="welcome_username">Welcome, Username!</string>
+    <string name="here_are_today_s_jokes">Here are today\'s jokes</string>
+    <string name="need_an_account">Need an account?</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="please_sign_in">Please sign in to continue.</string>
+    <string name="register">Register</string>
+</resources>

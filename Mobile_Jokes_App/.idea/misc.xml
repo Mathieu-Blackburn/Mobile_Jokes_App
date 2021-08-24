@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Visual Studio/A00 - Personnel/Portfolio/Mobile_Jokes_App/Mobile_Jokes_App/app/src/main/res/layout/activity_jokes.xml" value="0.20520833333333333" />
+        <entry key="..\:/Visual Studio/A00 - Personnel/Portfolio/Mobile_Jokes_App/Mobile_Jokes_App/app/src/main/res/layout/activity_register.xml" value="0.20520833333333333" />
+        <entry key="..\:/Visual Studio/M14-Introduction Mobile/Travaux Pratiques/TP2_Mathieu_Blackburn_Rogers/app/src/main/res/layout/activity_jokes.xml" value="0.2916666666666667" />
+        <entry key="..\:/Visual Studio/M14-Introduction Mobile/Travaux Pratiques/TP2_Mathieu_Blackburn_Rogers/app/src/main/res/layout/activity_register.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
